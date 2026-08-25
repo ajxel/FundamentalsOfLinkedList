@@ -6,7 +6,7 @@ Java exercise covering Singly and Doubly Linked List implementations
 - `DoublyLinkedList/` = bidirectional traversal, insert, delete
 
   ## Concepts practiced
-  = Pointer/reference manipulation
+  - Pointer/reference manipulation
   - Time complexity: 0(1) insert at head, 0(n) search
   - Difference between singly vs doubly linked structures
  
