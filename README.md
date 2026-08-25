@@ -15,5 +15,5 @@ Java exercise covering Singly and Doubly Linked List implementations
   java TestDLL
 
 
-  // what I have learned in this area of Data Structures is that elements are organized sequentially,
-  // wherein each element is positioned in a linear order, and traversal typically follows one direction (from start to end).
+  what I have learned in this area of Data Structures is that elements are organized sequentially,
+  wherein each element is positioned in a linear order, and traversal typically follows one direction (from start to end).
