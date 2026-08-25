@@ -1,0 +1,1 @@
+# A linked list consists of chains of nodes, where each node contains information such as data, and a pointer to the next node. Each node is composed of data and a reference (a link) to the next node in the sequence; more complex variants add additional links
